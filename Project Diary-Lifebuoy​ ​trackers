@@ -1,0 +1,13 @@
+Project Year 4 – Lifebuoy​ ​trackers
+
+13th - 20th October 2017
+
+1.Looked up sigfox compatible development boards.
+2.Potentially settled on Arduino MKR FOX 1200 (https://store.arduino.cc/arduino-mkrfox1200).
+ 
+
+20th - 27th October 2017
+
+1.Had to look up the power efficiency of differnt boards and ways of decreasing power consumption.
+2.Investigated long lasting and the self-discharge rate of different batteries.
+
