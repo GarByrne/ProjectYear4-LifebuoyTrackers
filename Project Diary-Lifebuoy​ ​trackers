@@ -24,3 +24,45 @@ Project Year 4 – Lifebuoy​ ​trackers
 
 1.Completed the Functional Spec
 2.Started correcting the Research Doc
+
+20th - 25th November 2017
+
+1.Started writing basic programs for the mkrfox1200
+
+27th - 1st November/December 2017
+
+1.Ordered 3 sensors(accelerometer,altimeter and gps)
+
+4th - 8th December 2017
+
+1.Connected to the sigfox network and sent a test message to a email address
+
+11th - 15th December 2017
+
+1.Recieved sensors.
+2.Got the altimeter connected and reading values
+
+8th - 12th January 2017
+
+1.Started using the gps module and the accelerometer sensor.
+2.Decided to concentrate on using the above sensors as they seemed most suited to my project
+
+15th - 19th January 2017
+
+1.Ran into trouble with the gps module not working the majority of the time, also found that the mkrfox1200 could not connect to the sigfox network from my house.
+
+
+22th - 26th January 2017
+
+1.Got a messsage sending, on sensing of movement to the database(dynamodb)through the sigfox network.
+2.Created a login/register and a page to show the locations of the lifebuoys, hardcoded for now.
+
+29th - 2nd January/February 2017
+
+1.Started refining the movement sensing code
+2.Started trying to retrieve from the dynamodb.
+
+5th - 9th January 2017
+
+1.Completed the Functional Spec
+2.Started correcting the Research Doc
